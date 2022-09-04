@@ -1,9 +1,9 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
 
-    "example.com/calculators"
+	"example.com/calculators"
 )
 
 func main() {
